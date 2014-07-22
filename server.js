@@ -30,7 +30,11 @@ var jokes = [
   {joke: "What's red and bad for your teeth? A Brick."},
   {joke: "What's orange and sounds like a parrot? A Carrot."},
   {joke: "What do you call a cow with no legs? Ground beef"},
-  {joke: "Two guys walk into a bar. You'd think the second one would have noticed."}
+  {joke: "Two guys walk into a bar. You'd think the second one would have noticed."},
+  {joke: "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."},
+  {joke: "What do you call a chicken crossing the road? Poultry in moton. "},
+  {joke: "Did you hear about the Mexican train killer?  He had locomotives"},
+  {joke: "What do you call a fake noodle?  An impasta"}
 ];
 
 app.get('/', function(req, res){
