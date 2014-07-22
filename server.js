@@ -26,7 +26,10 @@ var jokes = [
   {joke: "Two fish in a tank. One looks to the other and says 'Can you even drive this thing???'"},
   {joke: "Two fish swim down a river, and hit a wall. One says: 'Dam!'"},
   {joke: "What's funnier than a monkey dancing with an elephant? Two monkeys dancing with an elephant."},
-  {joke: "How did Darth Vader know what Luke was getting for Christmas? He felt his presents."}
+  {joke: "How did Darth Vader know what Luke was getting for Christmas? He felt his presents."},
+  {joke: "What's red and bad for your teeth? A Brick."},
+  {joke: "What's orange and sounds like a parrot? A Carrot."},
+  {joke: "What do you call a cow with no legs? Ground beef."}
 ];
 
 
