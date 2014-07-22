@@ -34,7 +34,8 @@ var jokes = [
   {joke: "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."},
   {joke: "What do you call a chicken crossing the road? Poultry in moton. "},
   {joke: "Did you hear about the Mexican train killer?  He had locomotives"},
-  {joke: "What do you call a fake noodle?  An impasta"}
+  {joke: "What do you call a fake noodle?  An impasta"},
+  {joke: "How many tickles does it take to tickle an octupus? Ten-tickles!"}
 ];
 
 app.get('/', function(req, res){
