@@ -33,7 +33,6 @@ var jokes = [
   {joke: "Two guys walk into a bar. You'd think the second one would have noticed."}
 ];
 
-
 app.get('/', function(req, res){
   res.json(jokes);
 });
@@ -52,8 +51,6 @@ app.get('/joke/:id', function(req, res) {
 var q = jokes[req.params.id];
   res.json(q);
 });
-
-
 
 app.listen(port, function(){
   console.log('Listening in on ' + port);
