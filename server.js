@@ -13,7 +13,18 @@ var jokes = [
   {joke: "My friend's bakery burned down last night. Now his business is toast."},
   {joke: "Why did the cookie cry? It was feeling crumby."},
   {joke: "I used to be a banker, but I lost interest."},
-  {joke: "A drum and a symbol fall off a cliff"}
+  {joke: "A drum and a symbol fall off a cliff"},
+  {joke: "Why do seagulls fly over the sea? Because they aren't bagels!"},
+  {joke: "Why did the fireman wear red, white, and blue suspenders? To hold his pants up."},
+  {joke: "Why didn't the crab share his food? Because crabs are territorial animals, that don't share anything."},
+  {joke: "Why was the javascript developer sad? Because he didn't Node how to Express himself."},
+  {joke: "What do I look like? A JOKE MACHINE!?"},
+  {joke: "How did the hipster burn the roof of his mouth? He ate the pizza before it was cool."},
+  {joke: "Why is it hard to make puns for kleptomaniacs? They are always taking things literally."},
+  {joke: "Why do mermaid wear sea-shells? Because b-shells are too small."},
+  {joke: "I'm a humorless, cold hearted, machine."},
+  {joke: "Two fish in a tank. One looks to the other and says 'Can you even drive this thing???'"},
+  {joke: "Two fish swim down a river, and hit a wall. One says: 'Dam!'"}
 ];
 
 
