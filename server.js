@@ -12,7 +12,8 @@ var jokes = [
   {joke: "I'm glad I know sign language, it's pretty handy."},
   {joke: "My friend's bakery burned down last night. Now his business is toast."},
   {joke: "Why did the cookie cry? It was feeling crumby."},
-  {joke: "I used to be a banker, but I lost interest."}
+  {joke: "I used to be a banker, but I lost interest."},
+  {joke: "A drum and a symbol fall off a cliff"}
 ];
 
 
