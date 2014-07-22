@@ -14,7 +14,7 @@ var jokes = [
   {joke: "Why did the cookie cry? It was feeling crumby."},
   {joke: "I used to be a banker, but I lost interest."},
   {joke: "A drum and a symbol fall off a cliff"},
-  {joke: "Why do seagulls fly over the sea? Because they aren't bagels!"},
+  {joke: "Why do seagulls fly over the sea? Because they aren't bay-gulls!"},
   {joke: "Why did the fireman wear red, white, and blue suspenders? To hold his pants up."},
   {joke: "Why didn't the crab share his food? Because crabs are territorial animals, that don't share anything."},
   {joke: "Why was the javascript developer sad? Because he didn't Node how to Express himself."},
@@ -29,7 +29,8 @@ var jokes = [
   {joke: "How did Darth Vader know what Luke was getting for Christmas? He felt his presents."},
   {joke: "What's red and bad for your teeth? A Brick."},
   {joke: "What's orange and sounds like a parrot? A Carrot."},
-  {joke: "What do you call a cow with no legs? Ground beef."}
+  {joke: "What do you call a cow with no legs? Ground beef"},
+  {joke: "Two guys walk into a bar. You'd think the second one would have noticed."}
 ];
 
 
