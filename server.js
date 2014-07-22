@@ -24,7 +24,9 @@ var jokes = [
   {joke: "Why do mermaid wear sea-shells? Because b-shells are too small."},
   {joke: "I'm a humorless, cold hearted, machine."},
   {joke: "Two fish in a tank. One looks to the other and says 'Can you even drive this thing???'"},
-  {joke: "Two fish swim down a river, and hit a wall. One says: 'Dam!'"}
+  {joke: "Two fish swim down a river, and hit a wall. One says: 'Dam!'"},
+  {joke: "What's funnier than a monkey dancing with an elephant? Two monkeys dancing with an elephant."},
+  {joke: "How did Darth Vader know what Luke was getting for Christmas? He felt his presents."}
 ];
 
 
