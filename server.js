@@ -35,7 +35,8 @@ var jokes = [
   {joke: "What do you call a chicken crossing the road? Poultry in moton. "},
   {joke: "Did you hear about the Mexican train killer?  He had locomotives"},
   {joke: "What do you call a fake noodle?  An impasta"},
-  {joke: "How many tickles does it take to tickle an octupus? Ten-tickles!"}
+  {joke: "How many tickles does it take to tickle an octupus? Ten-tickles!"}, 
+  {joke: "At the rate law schools are turning them out, by 2050 there will be more lawyers than humans."}
 ];
 
 app.get('/', function(req, res){
